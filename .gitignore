@@ -210,3 +210,7 @@ __marimo__/
 UniMERNet/
 mira_venv/
 test_script.ipynb
+# Table extraction evaluation local data
+table_extraction_eval/data/pdfs/*.pdf
+table_extraction_eval/data/xml/*.xml
+table_extraction_eval/outputs/

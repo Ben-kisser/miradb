@@ -1,0 +1,4 @@
+pmid,table_id,caption,true_num_rows,true_num_cols,has_header,is_parameter_table,notes
+39664544,Table 4,"Parameter combinations for five scenarios with different community control measures for Omicron strains",10,7,yes,yes,"Parameter table; includes scenario columns, setting basis, symbols, fractions, percentages, and references"
+39664544,Table 5,"Initial parameter settings for Omicron strain scenarios with dynamic zeroing measures",16,3,yes,yes,"Initial condition and parameter table; useful for testing row extraction, subscripts, symbols, and mixed numeric formats"
+39664544,Table 6,"Parameter combinations for three scenarios of different community control measures COVID-19",10,5,yes,yes,"Parameter table; includes scenario columns, setting basis, symbols, fractions, percentages, and references"
