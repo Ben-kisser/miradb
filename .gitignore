@@ -214,3 +214,8 @@ test_script.ipynb
 table_extraction_eval/data/pdfs/*.pdf
 table_extraction_eval/data/xml/*.xml
 table_extraction_eval/outputs/
+
+# Table extraction evaluation local data
+table_extraction_eval/data/pdfs/*.pdf
+table_extraction_eval/data/xml/*.xml
+table_extraction_eval/outputs/
